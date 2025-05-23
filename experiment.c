@@ -8,5 +8,6 @@ int main() {
     printf("2. AIML\n");
     printf("3. ECE\n");
     printf("4. Robotics\n");
+    printf("5. datascience\n");
     printf("Enter your choice: ");
     scanf("%d", &choice);
