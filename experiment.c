@@ -10,3 +10,4 @@ int main() {
     printf("4. Robotics\n");
     printf("Enter your choice: ");
     scanf("%d", &choice);
+    printf("5.VLSI\n");
